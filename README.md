@@ -3,7 +3,7 @@
 ## 👨‍💻 About me
 Hi, I'm Hoa Nguyen, a highly skilled full-stack developer with 8 years of experience in the software development industry. Throughout my career, I have honed my skills in both front-end and back-end development, allowing me to create robust and user-friendly applications from start to finish.
 
-🌐 Web Developer \
+🌐 Full-stack Developer \
 💻 I’m currently working at [TopCV](https://topcv.com.vn) \
 ⚡ I am passionate about sharing knowledge, so please feel free to visit my blog [WebDevGenius](https://webdevgenius.com) 
 
