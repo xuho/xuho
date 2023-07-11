@@ -14,7 +14,7 @@ Hi, I'm Hoa Nguyen, a highly skilled full-stack developer with 8 years of experi
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 
 <p>
-    <a href="https://github.com/fptcodedao">
+    <a href="https://github.com/xuho">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xuho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xuho&layout=compact&langs_count=8&theme=algolia"/>
     </a>
