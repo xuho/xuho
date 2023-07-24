@@ -19,3 +19,6 @@ Hi, I'm Hoa Nguyen, a highly skilled full-stack developer with 8 years of experi
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xuho&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </p>
+
+## Let's try DigitalOcean
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=e6a74d46e65f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
